@@ -1,14 +1,29 @@
-# Optimistic UI demo
+# optimistic-app
 
-Aplicaciones cliente y servidor para demostrar el funcionamiento elemental de las interacciónes en interfaces con el enfoque optimista.
+## Project setup
+```
+yarn install
+```
 
-## Intrucciones de instalación
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
 
-* Descargar o clonar proyecto
-* Seguir las instrucciones de cada carpeta (client/server)
-* Levantar el servicio para cada ptoyecto
+### Compiles and minifies for production
+```
+yarn run build
+```
 
-## Presentación
+### Run your tests
+```
+yarn run test
+```
 
-Slides referentes al proyecto explicado
-https://tupo.to/GI6g
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
